@@ -1,2 +1,2 @@
-tensorflow==1.7.*
+tensorflow==1.12.*
 beautifulsoup4
